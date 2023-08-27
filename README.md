@@ -40,29 +40,18 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cake-studio-ecommerce.git
-   cd cake-studio-ecommerce
+   git clone https://github.com/Shaikh-abid/ECommerce-Project-.git
 ## Usage
 Admin Page
 
-1.
-  java -jar target/cake-studio-ecommerce-0.0.1-SNAPSHOT.jar
-2. Access the admin dashboard:
-
-Open your web browser and navigate to http://localhost:8080/admin. Log in using admin credentials.
-
-3. Manage products and categories:
-
-Use the admin dashboard to perform CRUD operations on products and categories.
+1. java -jar target/cake-studio-ecommerce-0.0.1-SNAPSHOT.jar
+2. Access the admin dashboard Open your web browser and navigate to http://localhost:8080/admin. Log in using admin credentials.
+3. Manage products and categories Use the admin dashboard to perform CRUD operations on products and categories.
 
 ### User Interface
-  1. Access the user interface:
+  1. Access the user interface Open your web browser and navigate to http://localhost:8080.
 
-Open your web browser and navigate to http://localhost:8080.
-
-2. Explore the functionality:
-
-Browse through cake products, add items to the cart, view the cart, and proceed to checkout.
+2. Explore the functionality Browse through cake products, add items to the cart, view the cart, and proceed to checkout.
 
 ### Contributing
 
