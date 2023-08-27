@@ -42,7 +42,7 @@ Follow these instructions to get the project up and running on your local machin
    ```bash
    git clone https://github.com/your-username/cake-studio-ecommerce.git
    cd cake-studio-ecommerce
-Usage
+## Usage
 Admin Page
 
 1.
@@ -55,7 +55,7 @@ Open your web browser and navigate to http://localhost:8080/admin. Log in using 
 
 Use the admin dashboard to perform CRUD operations on products and categories.
 
-User Interface
+### User Interface
   1. Access the user interface:
 
 Open your web browser and navigate to http://localhost:8080.
@@ -64,7 +64,7 @@ Open your web browser and navigate to http://localhost:8080.
 
 Browse through cake products, add items to the cart, view the cart, and proceed to checkout.
 
-Contributing
+### Contributing
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to create a pull request.
 
@@ -74,4 +74,4 @@ Contributions are welcome! If you find any issues or want to enhance the project
 4. Push the changes to your branch (git push origin feature/your-feature).
 5. Open a pull request.
 
-Happy shopping! 🍰🛒
+ ## Happy shopping! 🍰🛒
